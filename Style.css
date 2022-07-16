@@ -1,0 +1,81 @@
+ * {
+    padding: 0%;
+    margin: 0%;
+
+ }
+
+ body {
+    background-image: url(GV\ logo.jpeg);
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+ }
+
+ .Menu-bar {
+    background-color:whitesmoke;
+    text-align: center;
+
+ }
+
+ .Menu-bar li {
+    display: inline;
+    list-style: armenian;
+    color: white;
+    width: 70px;
+    margin: 70px;
+    padding: 5px;
+    color: rgb(red, green, blue);
+    font-size: x-large;
+    text-decoration: none;
+ }
+
+ .Menu-bar li a {
+    text-decoration: none;
+
+ }
+
+ .Service center span {
+    font-size: xx-large;
+    text-decoration: none;
+
+ }
+
+ .img {
+    padding-top: 25px;
+    margin-left: 375px;
+ }
+
+ .active
+ .Menu-bar li a:hover header
+ {
+    background-color: white;
+    border-radius: 1px;
+    margin: 20px;
+    padding: 00;
+    
+ }
+
+ .about h1 i
+  {
+    padding-top: 60px;
+ }
+ .Image
+ {
+   display: flex;
+   display:table-row;
+   align-items: center;
+   justify-content: center;
+   height: 500px;
+   width: auto;
+   border-radius: 50px;
+ }
+.sub-menu
+{
+   display: none;
+   display: table-row;
+
+}
+
+ 
